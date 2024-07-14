@@ -35,7 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
+
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrezzaMoura&show_icons=true&theme=cobalt)
+
+
+
+![83b809857acd41a7bad4935b4734f9fc](https://github.com/user-attachments/assets/b1f46a37-a28d-412d-8cbf-bceac5894654)
 
 ###
